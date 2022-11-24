@@ -1,7 +1,0 @@
-https://developer.apple.com/
-https://download.developer.apple.com/
-https://idmsa.apple.com/
-https://www.apple.com/
-https://appleid.cdn-apple.com/
-https://swcdn.apple.com/
-https://github.com/
